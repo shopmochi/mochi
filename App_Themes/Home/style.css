@@ -1364,8 +1364,9 @@ End CSS structure reset Bootstrap
 }
 .product-content .product-block .product-item-box .product-item .right-block .addtocart-button .add-to-cart:hover {
   background-color: #f46164;
+  background-size: 25% auto;
   color: #ffffff;
-  background-image: url(Images/btn-cart-hover.png);
+  background-image: url(https://static.xx.fbcdn.net/rsrc.php/ym/r/YQbyhl59TWY.ico?_nc_eui2=AeFzXBLErxFQB0oOew9Cm0TVy1__ocksmdfLX_-hySyZ15jw0Go8UnAEyeN0koveYUDbVXg9KoWc2Zd6Jp_Rd1bQ);
 }
 .product-content .product-grid {
   text-align: center;
@@ -3077,7 +3078,8 @@ End CSS structure reset Bootstrap
   border-color: #f46164;
 }
 .product-detail .product-block .addtocart-button a.add-to-cart span {
-  background-image: url(Images/cart_icon.png);
+  background-image: url(https://static.xx.fbcdn.net/rsrc.php/ym/r/YQbyhl59TWY.ico?_nc_eui2=AeFzXBLErxFQB0oOew9Cm0TVy1__ocksmdfLX_-hySyZ15jw0Go8UnAEyeN0koveYUDbVXg9KoWc2Zd6Jp_Rd1bQ);
+  background-size: 25% auto;
 }
 .product-detail .product-block .call {
   margin: 15px 0;
@@ -3240,7 +3242,8 @@ End CSS structure reset Bootstrap
   color: #ffffff;
 }
 .box-product .box-product-block .item .addtocart-button a.add-to-cart span {
-  background-image: url(Images/cart_icon.png);
+  background-image: url(https://static.xx.fbcdn.net/rsrc.php/ym/r/YQbyhl59TWY.ico?_nc_eui2=AeFzXBLErxFQB0oOew9Cm0TVy1__ocksmdfLX_-hySyZ15jw0Go8UnAEyeN0koveYUDbVXg9KoWc2Zd6Jp_Rd1bQ);
+  background-size: 25% auto;
 }
 .box-product .box-product-block .item .price {
   margin-bottom: 5px;
