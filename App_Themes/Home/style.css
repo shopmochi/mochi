@@ -1353,7 +1353,8 @@ End CSS structure reset Bootstrap
   margin-top: 20px;
 }
 .product-content .product-block .product-item-box .product-item .right-block .addtocart-button .add-to-cart {
-  background: url(Images/btn-cart.png) no-repeat 10px center;
+  background: url(https://static.xx.fbcdn.net/rsrc.php/ym/r/YQbyhl59TWY.ico?_nc_eui2=AeFzXBLErxFQB0oOew9Cm0TVy1__ocksmdfLX_-hySyZ15jw0Go8UnAEyeN0koveYUDbVXg9KoWc2Zd6Jp_Rd1bQ) no-repeat 10px center;
+  background-size: 25% auto;
   border: 1px solid #f46164;
   line-height: 28px;
   padding: 14px 17px 11px 36px;
